@@ -1,0 +1,22 @@
+site_name: Documentando Python101
+theme:
+  name: 'material'
+  language: 'es'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - tables
+plugins:
+  - search:
+      lang: es
+use_directory_urls: true
+

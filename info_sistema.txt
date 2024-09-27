@@ -1,0 +1,9 @@
+==================================================
+           INFORMACIÓN DEL SISTEMA
+==================================================
+Fecha y hora actual : 2024-09-27 13:58:47
+Nombre del equipo   : SUMMIT
+Dirección IP        : 192.168.1.156
+Sistema Operativo   : Windows 11
+Arquitectura        : AMD64
+==================================================
